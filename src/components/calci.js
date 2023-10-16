@@ -1,4 +1,4 @@
-import 'C:/Users/hitesh simma/Documents/task2/src/App.css';
+import '../App.css';
 import {Component} from 'react';
 
 class calc extends Component{
